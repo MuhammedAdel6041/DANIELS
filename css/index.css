@@ -1,0 +1,671 @@
+/* ================================================================Header Section Start===========================================================*/
+#Header {
+    background-image: linear-gradient(#000000a2, #000000a2), url(../imgs/bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.header-typeing::after {
+    content: '|';
+    animation: typing 10s linear infinite;
+    font-weight: 400;
+}
+
+@keyframes typing {
+    0% {
+        content: " A|";
+    }
+
+    1% {
+        content: " A |";
+    }
+
+    2% {
+        content: " A G|";
+    }
+
+    3% {
+        content: " A Gr|";
+    }
+
+    4% {
+        content: " A Gra|";
+    }
+
+    5% {
+        content: " A Grap|";
+    }
+
+    6% {
+        content: " A Graph|";
+    }
+
+    7% {
+        content: " A Graphi|";
+    }
+
+    8% {
+        content: " A Graphic|";
+    }
+
+    9% {
+        content: " A Graphic |";
+    }
+
+    10% {
+        content: " A Graphic D|";
+    }
+
+    11% {
+        content: " A Graphic De|";
+    }
+
+    13% {
+        content: " A Graphic Des|";
+    }
+
+    14% {
+        content: " A Graphic Desi|";
+    }
+
+    15% {
+        content: " A Graphic Desig|";
+    }
+
+    16% {
+        content: " A Graphic Design|";
+    }
+
+    17% {
+        content: " A Graphic Designe|";
+    }
+
+    18% {
+        content: " A Graphic Designer|";
+    }
+
+    19% {
+        content: " A Graphic Designer.|";
+    }
+
+    20% {
+        content: " A Graphic Designer.|";
+    }
+
+    21% {
+        content: " A Graphic Designer.|";
+    }
+
+    22% {
+        content: " A Graphic Designer|";
+    }
+
+    23% {
+        content: " A Graphic Designe|";
+    }
+
+    24% {
+        content: " A Graphic Design|";
+    }
+
+    25% {
+        content: " A Graphic Desig|";
+    }
+
+    25% {
+        content: " A Graphic Desi|";
+    }
+
+    26% {
+        content: " A Graphic Des|";
+    }
+
+    27% {
+        content: " A Graphic De|";
+    }
+
+    28% {
+        content: " A Graphic D|";
+    }
+
+    29% {
+        content: " A Graphic |";
+    }
+
+    30% {
+        content: " A Graphic|";
+    }
+
+    31% {
+        content: " A Graphi|";
+    }
+
+    32% {
+        content: " A Graph|";
+    }
+
+    33% {
+        content: " A Grap|";
+    }
+
+    34% {
+        content: " A Gra|";
+    }
+
+    35% {
+        content: " A Gr|";
+    }
+
+    36% {
+        content: " A G|";
+    }
+
+    37% {
+        content: " A |";
+    }
+
+    38% {
+        content: " A P|";
+    }
+
+    39% {
+        content: " A Ph|";
+    }
+
+    40% {
+        content: " A Pho|";
+    }
+
+    41% {
+        content: " A Phot|";
+    }
+
+    42% {
+        content: " A Photo|";
+    }
+
+    43% {
+        content: " A Photog|";
+    }
+
+    44% {
+        content: " A Photogr|";
+    }
+
+    45% {
+        content: " A Photogra|";
+    }
+
+    46% {
+        content: " A Photograp|";
+    }
+
+    47% {
+        content: " A Photograph|";
+    }
+
+    48% {
+        content: " A Photographe|";
+    }
+
+    49% {
+        content: " A Photographer|";
+    }
+
+    50% {
+        content: " A Photographer.|";
+    }
+
+    51% {
+        content: " A Photographer.|";
+    }
+
+    52% {
+        content: " A Photographer.|";
+    }
+
+    53% {
+        content: " A Photographer|";
+    }
+
+    54% {
+        content: " A Photographe|";
+    }
+
+    55% {
+        content: " A Photograph|";
+    }
+
+    56% {
+        content: " A Photograp|";
+    }
+
+    57% {
+        content: " A Photogra|";
+    }
+
+    58% {
+        content: " A Photogr|";
+    }
+
+    59% {
+        content: " A Photog|";
+    }
+
+    60% {
+        content: " A Photo|";
+    }
+
+    61% {
+        content: " A Phot|";
+    }
+
+    62% {
+        content: " A Pho|";
+    }
+
+    63% {
+        content: " A Ph|";
+    }
+
+    64% {
+        content: " A P|";
+    }
+
+    65% {
+        content: " A |";
+    }
+
+    66% {
+        content: " A|";
+    }
+
+    67% {
+        content: " |";
+    }
+
+    68% {
+        content: "K|";
+    }
+
+    69% {
+        content: "Ke|";
+    }
+
+    70% {
+        content: "Ker|";
+    }
+
+    71% {
+        content: "Kerr|";
+    }
+
+    72% {
+        content: "Kerri|";
+    }
+
+    73% {
+        content: "Kerri |";
+    }
+
+    74% {
+        content: "Kerri D|";
+    }
+
+    75% {
+        content: "Kerri De|";
+    }
+
+    76% {
+        content: "Kerri Deo|";
+    }
+
+    77% {
+        content: "Kerri Deo.|";
+    }
+
+    78% {
+        content: "Kerri Deo.|";
+    }
+
+    79% {
+        content: "Kerri Deo.|";
+    }
+
+    80% {
+        content: "Kerri Deo|";
+    }
+
+    81% {
+        content: "Kerri De|";
+    }
+
+    82% {
+        content: "Kerri D|";
+    }
+
+    83% {
+        content: "Kerri |";
+    }
+
+    84% {
+        content: "Kerri|";
+    }
+
+    85% {
+        content: "Kerr|";
+    }
+
+    86% {
+        content: "Ker|";
+    }
+
+    87% {
+        content: "Ke|";
+    }
+
+    88% {
+        content: "K|";
+    }
+
+    89% {
+        content: "|";
+    }
+
+    90% {
+        content: "|";
+    }
+
+    91% {
+        content: "|";
+    }
+
+    92% {
+        content: "|";
+    }
+
+    93% {
+        content: "|";
+    }
+
+    94% {
+        content: "|";
+    }
+
+    95% {
+        content: "|";
+    }
+
+    96% {
+        content: "|";
+    }
+
+    97% {
+        content: "|";
+    }
+
+    98% {
+        content: "|";
+    }
+
+    99% {
+        content: "|";
+    }
+
+    100% {
+        content: "|";
+    }
+}
+
+.custom-icon {
+    height: 33px;
+    width: 33px;
+}
+
+.custom-icon i {
+    font-size: 14px;
+    color: white;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+
+}
+
+.navbar-nav .nav-link.active {
+    color: white;
+}
+
+
+
+/* ================================================================Header Section End===========================================================*/
+.about-progress .progress {
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15) inset;
+    height: 1.5rem;
+    margin: 1.7rem 0;
+}
+
+.about-progress .progress h3 {
+    font-size: 16px;
+    padding: 15px;
+    margin: 0 0 0.3rem 0;
+}
+
+.about-progress .progress h4 {
+    font-size: 16px;
+    padding: 20px;
+    margin: 0 0 0.3rem 0;
+}
+
+.About-btns .custom {
+    transition: all 0.5s ease-in-out;
+    background-color: black;
+}
+
+.About-btns .custom:hover {
+    color: black;
+    background-color: transparent;
+
+}
+
+.About-btns .btn-custom {
+    transition: all 0.5s ease-in-out;
+    background-color: transparent;
+}
+
+.About-btns .btn-custom:hover {
+    color: white;
+    background-color: black;
+
+}
+
+.about-imge {
+    position: relative;
+}
+
+.about-imge::before {
+    content: "";
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    left: -15px;
+    bottom: -30px;
+    background-image: url(../imgs/dots.png);
+    background-repeat: repeat;
+    z-index: -1;
+}
+
+.Services-header {
+    position: relative;
+}
+
+.Services-header::after {
+    content: "";
+    width: 20%;
+    height: 30px;
+    background-image: url(../imgs/dots.png);
+    background-repeat: repeat;
+    position: absolute;
+    bottom: 55px;
+    left: 500px;
+    z-index: -1;
+}
+
+.contecat .Card-icon {
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    font-size: 2rem;
+    background-color: rgba(128, 128, 128, 0.33);
+    transition: all 0.4s ease-in-out;
+}
+
+.contecat {
+    background-color: white;
+
+}
+
+.contecat:hover .Card-icon {
+    background-color: black;
+    color: white;
+}
+
+.image-model {
+    position: relative;
+
+
+}
+
+.image-model:hover .over-lay {
+    opacity: 1;
+}
+
+.image-model .over-lay {
+    opacity: 0;
+    background-color: rgba(255, 255, 255, 0.933);
+
+    position: absolute;
+    top: 10px;
+    bottom: 10px;
+    right: 20px;
+    left: 20px;
+    transition: all 0.7s ease-in-out;
+
+
+
+}
+
+.image-model .over-lay .profile-icon {
+    width: 30px;
+    margin: 0 3px;
+    height: 30px;
+    background-color: black;
+    color: white;
+
+}
+
+.icons .profile-icon:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+
+}
+
+.card {
+  
+    overflow: hidden;
+    position: relative;
+
+}
+
+.card img {
+    position: relative;
+    z-index: 0;
+
+    transition: all 0.3s ease-in-out;
+
+}
+
+.card .card-body {
+    background-color: #5B5B5B;
+    color: white;
+    position: relative;
+    z-index: 1;
+
+
+}
+
+.card:hover .over-Layout {
+    background-color: rgb(246, 246, 246);
+    opacity: 1;
+   
+    transform: rotateY(180deg) scale(1, 1);
+}
+
+.card img:hover   {
+    transform: scale(1.2);
+}
+
+
+.team-icon-custom {
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    transform: rotateY(180deg);
+    transition: all 0.3s ease-in-out;
+}
+
+.team-icon-custom:hover {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
+
+.over-Layout {
+   opacity: 0;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 10px;
+    bottom: 115px;
+    left: 5px;
+    right: 5px;
+    transition: 1s;
+}
+.carousel-item img{
+    width: 8%;
+    margin: auto; 
+  }
+  .carousel-indicators{
+    bottom: -80px;
+  }
+  .carousel-indicators [data-bs-target]{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #869791;
+  }
+  .last i{
+    font-size: 30px;
+      margin-bottom: 20px;
+      width: 70px;
+      height: 70px;
+      line-height: 70px;
+      background: #f4f4f4;
+      border-radius: 50%;
+      -webkit-transition: all 0.5s;
+      transition: all 0.5s;
+  }
+  .last1:hover i{
+    background-color: black;
+    color: white !important;
+    /* border: solid 1px black;  */
+    transition: all 0.5s;
+  }
+  .custom:hover{
+    background-color: transparent;
+    color: black;
+  }
